@@ -3,14 +3,13 @@
 using PkgDev
 using Test
 
-z = zeros(10, 10);
 
 
 @testset "PkgDev.jl" begin
-    @test gaussian(z) == z;
-    @test gaussian(z) == z;
-    @test gaussian(z) == z;
-    @test gaussian(z) == z;
+    @test addxy(3.5, 4.6) == 8.1;
+    @test addxy(3.5, 4.6) == 8.1;
+    @test addxy(3.5, 4.6) == 8.1;
+    @test addxy(3.5, 4.6) == 8.1;
 
 
 end

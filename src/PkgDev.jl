@@ -1,6 +1,6 @@
 module PkgDev
 
-export gaussian
+export addxy
 
 include("filea.jl");
 # Write your package code here.
