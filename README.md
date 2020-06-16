@@ -3,7 +3,7 @@
 
 ## Step by Step Notes
 
-Following Chris' awesome [video tutorial]{https://youtu.be/QVmU29rCjaA}
+Following Chris' awesome [video tutorial](https://youtu.be/QVmU29rCjaA)
 
 
 
