@@ -3,6 +3,11 @@ uuid = "6563d13d-1da7-4e75-8455-d4d12aaa8315"
 authors = ["Yen", "Cornell University"]
 version = "0.1.0"
 
+[deps]
+Conda = "8f4d0f93-b110-5947-807f-2305c1781a2d"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
 [compat]
 julia = "1"
 
